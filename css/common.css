@@ -1,0 +1,27 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+ul {
+	list-style-type: none;
+	text-align: center;
+	padding: 20px 40px 20px 50px;
+}
+li {
+	font-size: 16px;
+	display: inline;
+	text-align: center;
+	font-family: LatoHeavy;
+	padding-left: 60px;
+}
+li a{
+	padding:  2px 7px 2px 7px;
+	color: #666;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #9B6093;
+	color: #F4DEF4;
+}
+fieldset {
+	width: 200px;
+	height: 400px;
+	border: none;
+}
